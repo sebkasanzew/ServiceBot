@@ -1,7 +1,7 @@
 {
     "board": "arduino:avr:nano",
     "configuration": "cpu=atmega328",
-    "port": "COM13",
+    "port": "COM6",
     "programmer": "AVRISP mkII",
     "sketch": "Tumbller.ino"
 }
